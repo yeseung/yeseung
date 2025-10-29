@@ -17,4 +17,10 @@
 * 오목 - https://chromewebstore.google.com/detail/iildaahodpdkolncmeoifokagidedfbl?authuser=0&hl=ko
 * 한/영타 변환기 - https://chromewebstore.google.com/detail/jajnkfaimhdhnaiaefanjajeeegclebl?authuser=0&hl=ko
 * Ratio Calculator (비율계산기) - https://chromewebstore.google.com/detail/oofdjicdaoebipadoggiioogcbjapbnl?authuser=0&hl=ko
+* number2korean - https://www.npmjs.com/package/number2korean
+* korean2number - https://www.npmjs.com/package/korean2number
+* square-meter-pyeong-converter - https://www.npmjs.com/package/square-meter-pyeong-converter
+* han2eng - https://www.npmjs.com/package/han2eng
+* korean-english-keyboard-converter - https://www.npmjs.com/package/korean-english-keyboard-converter
+
 
