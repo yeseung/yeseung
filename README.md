@@ -1,9 +1,9 @@
 
 
 * 김타자 - https://kimtaja.com
-* 오늘 점심 뭐 먹지 - https://yeseung.github.io/lunch-picker/
+* 오늘 점심 뭐 먹지 - https://lunch-p.netlify.app
 * 오늘 점심 뭐 먹지 - https://chromewebstore.google.com/detail/inipgeagkbfegjoiflmjlhenlhefjien?authuser=0&hl=ko
-* Mini Notepad - https://yeseung.github.io/mini-notepad/
+* Mini Notepad - https://mini-notepad.netlify.app
 * Mini Notepad - https://chromewebstore.google.com/detail/ogdbjjojbhllfhhgpopfjceiphephmdb?authuser=0&hl=ko
 * 오늘 날짜 - https://chromewebstore.google.com/detail/gfejecdfpdmfmjgkgcpconilgfndlhge?authuser=0&hl=ko
 * 한글 더미 텍스트 - https://chromewebstore.google.com/detail/klcglehgedodgjmolajlnjdigbjdiolm?authuser=0&hl=ko
@@ -17,6 +17,8 @@
 * 오목 - https://chromewebstore.google.com/detail/iildaahodpdkolncmeoifokagidedfbl?authuser=0&hl=ko
 * 한/영타 변환기 - https://chromewebstore.google.com/detail/jajnkfaimhdhnaiaefanjajeeegclebl?authuser=0&hl=ko
 * Ratio Calculator (비율계산기) - https://chromewebstore.google.com/detail/oofdjicdaoebipadoggiioogcbjapbnl?authuser=0&hl=ko
+* 숫자 → 한글 수사 변환기 - https://number2korean.netlify.app
+* 한글 수사 → 숫자 변환기 - https://korean2number.netlify.app
 * number2korean - https://www.npmjs.com/package/number2korean
 * korean2number - https://www.npmjs.com/package/korean2number
 * square-meter-pyeong-converter - https://www.npmjs.com/package/square-meter-pyeong-converter
