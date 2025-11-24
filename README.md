@@ -3,6 +3,7 @@
 * 김타자 - https://kimtaja.com
 * 오늘 점심 뭐 먹지 - https://lunch-p.netlify.app
 * 오늘 점심 뭐 먹지 - https://chromewebstore.google.com/detail/inipgeagkbfegjoiflmjlhenlhefjien?authuser=0&hl=ko
+* 오늘의 급식 - https://today-meal.netlify.app
 * Mini Notepad - https://mini-notepad.netlify.app
 * Mini Notepad - https://chromewebstore.google.com/detail/ogdbjjojbhllfhhgpopfjceiphephmdb?authuser=0&hl=ko
 * 오늘 날짜 - https://chromewebstore.google.com/detail/gfejecdfpdmfmjgkgcpconilgfndlhge?authuser=0&hl=ko
