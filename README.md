@@ -1,6 +1,7 @@
 
 
 * 김타자 - https://kimtaja.com
+* 타자연습 - https://yeseung.github.io/taja
 * 오늘 점심 뭐 먹지 - https://lunch-p.netlify.app
 * 오늘 점심 뭐 먹지 - https://chromewebstore.google.com/detail/inipgeagkbfegjoiflmjlhenlhefjien?authuser=0&hl=ko
 * 오늘의 급식 - https://today-meal.netlify.app
