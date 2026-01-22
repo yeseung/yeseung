@@ -1,6 +1,8 @@
 
 
 * 김타자 - https://kimtaja.com
+* AI 꿈해몽 분석기 - https://kimtaja.com/dream.php
+* AI 기도문 생성기 - https://kimtaja.com/prayer.php
 * 타자연습 - https://yeseung.github.io/taja
 * 오늘 점심 뭐 먹지 - https://lunch-p.netlify.app
 * 오늘 점심 뭐 먹지 - https://chromewebstore.google.com/detail/inipgeagkbfegjoiflmjlhenlhefjien?authuser=0&hl=ko
