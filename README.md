@@ -3,7 +3,11 @@
 * 김타자 - https://kimtaja.com
 * AI 꿈해몽 분석기 - https://kimtaja.com/dream.php
 * AI 기도문 생성기 - https://kimtaja.com/prayer.php
-* AI 오늘 점심 뭐 먹지  - https://kimtaja.com/lunch.php
+* AI 오늘 점심 뭐 먹지? - https://kimtaja.com/lunch.php
+* AI 이미지 스타일 코치 (연예인 닮은꼴) - https://kimtaja.com/profile.php
+* AI 칼로리 리포트 - https://kimtaja.com/calorie.php
+* AI 영수증 분석기 - https://kimtaja.com/receipt.php
+* AI 오늘의 운세 - https://kimtaja.com/fortune.php
 * 타자연습 - https://yeseung.github.io/taja
 * 오늘 점심 뭐 먹지 - https://lunch-p.netlify.app
 * 오늘 점심 뭐 먹지 - https://chromewebstore.google.com/detail/inipgeagkbfegjoiflmjlhenlhefjien?authuser=0&hl=ko
